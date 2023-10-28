@@ -1,1 +1,1 @@
-helm chart to deploy to kubernetes
+helm chart to deploy to kubernetes minikube
