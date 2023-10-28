@@ -1,1 +1,1 @@
-# gameloft-gitlab-helm-chart
+helm chart to deploy to kubernetes
